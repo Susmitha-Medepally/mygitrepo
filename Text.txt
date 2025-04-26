@@ -2,4 +2,8 @@
 My name is susmitha. This is oflline changes . Working with the git. I want local file to be updated again
 =======
 Online changes made. susmithaa
+<<<<<<< HEAD
 >>>>>>> df424ac129b9b2afb09e4e6fd741009e66502a49
+=======
+new changes made
+>>>>>>> 1bf1c1b6e0a9607df966d6f2d26d69b201689a8e
